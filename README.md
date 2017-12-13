@@ -10,4 +10,4 @@
   <img width="100" height="80" src="https://github.com/dragonzurfer/Algo-Training/blob/master/media/kattis.png">
 </p>
 
-[1-0 sequences](https://open.kattis.com/problems/sequences)```adhoc,math``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/1-0sequence.cpp)
+* [1-0 sequences](https://open.kattis.com/problems/sequences)```adhoc,math``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/1-0sequence.cpp)
