@@ -14,3 +14,5 @@
 </p>
 
 * [1-0 sequences](https://open.kattis.com/problems/sequences)```adhoc,math``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/1-0sequence.cpp)
+
+* [10 kinds of people](https://open.kattis.com/problems/10kindsofpeople)```bfs,dfs``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/10kindsofpeople.cpp)
