@@ -18,3 +18,5 @@
 * [10 kinds of people](https://open.kattis.com/problems/10kindsofpeople)```bfs,dfs``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/10kindsofpeople.cpp)
 
 * [2048](https://open.kattis.com/problems/2048)```implementation``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/2048.cpp)
+
+* [3D Printed Statues](https://open.kattis.com/problems/3dprinter)```implementation``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/3DPrintedStatues.cpp)
