@@ -26,7 +26,7 @@
 ## Spoj
 
 <p align="left">
-  <img width="350" height="80" src="https://github.com/dragonzurfer/Algo-Training/blob/master/media/spoj.png">
+  <img width="400" height="80" src="https://github.com/dragonzurfer/Algo-Training/blob/master/media/spoj.png">
 </p>
 
 * [MKTHNUM](http://www.spoj.com/problems/MKTHNUM/) ```persistent segment tree``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/mkthnum.cpp)
