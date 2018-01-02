@@ -20,3 +20,13 @@
 * [2048](https://open.kattis.com/problems/2048)```implementation``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/2048.cpp)
 
 * [3D Printed Statues](https://open.kattis.com/problems/3dprinter)```implementation``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/3DPrintedStatues.cpp)
+
+* [A+B Problem](https://open.kattis.com/problems/aplusb)```fft``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/aplusb.cpp)
+
+## Spoj
+
+<p align="left">
+  <img width="350" height="80" src="https://github.com/dragonzurfer/Algo-Training/blob/master/media/spoj.png">
+</p>
+
+* [MKTHNUM](http://www.spoj.com/problems/MKTHNUM/) ```persistent segment tree``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/mkthnum.cpp)
