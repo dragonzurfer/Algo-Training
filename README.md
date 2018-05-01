@@ -30,3 +30,7 @@
 </p>
 
 * [MKTHNUM](http://www.spoj.com/problems/MKTHNUM/) ```persistent segment tree``` [code](https://github.com/dragonzurfer/Algo-Training/blob/master/code/mkthnum.cpp)
+
+## Hackerrank
+
+* [Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) ```heap``` [code] (https://github.com/dragonzurfer/Algo-Training/blob/master/code/Minimum_avg_Waiting_time.cpp)
